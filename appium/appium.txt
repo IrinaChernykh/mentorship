@@ -1,0 +1,6 @@
+[caps]
+app="./YiReactNativeTestApp"
+automationName="YouiEngine"
+deviceName="Doesn't matter"
+platformName="YiMac"
+youiEngineAppAddress="localhost"
